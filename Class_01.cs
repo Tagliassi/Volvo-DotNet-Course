@@ -361,7 +361,7 @@ namespace Volvo_DotNet_Course
             
             int [] numerosSorteados = new int[6]; //sem repetição
             int [] numerosApostados = new int[6]; // 1 - 60 e sem repetição
-            int [] numerosAcertados = new int[6];
+            int [] numerosAcertados;
 
             int contador = 0;
 
