@@ -39,7 +39,7 @@ namespace Volvo_DotNet_Course
 
             //Exercise_16.Executar();
 
-            Exercise_17.Executar();
+            //Exercise_17.Executar();
 
 
         }
@@ -58,7 +58,7 @@ namespace Volvo_DotNet_Course
             System.Console.Write("Digite o seu peso: ");
             double peso = Convert.ToDouble(Console.ReadLine());
 
-            double imc = peso / (altura * altura);
+            double imc = peso / (altura * altura); //(Math.Pow(altura,2))
 
             System.Console.WriteLine($"{nome}, seu IMC é de: {imc:F2}");
         }
@@ -228,7 +228,6 @@ namespace Volvo_DotNet_Course
             else{
                 System.Console.Write("Fechado");
             }
-
         }
     }
 
@@ -244,7 +243,6 @@ namespace Volvo_DotNet_Course
                 }
                 contador++;
             } 
-
         }
     }
 
@@ -308,14 +306,22 @@ namespace Volvo_DotNet_Course
                 Console.WriteLine("Nenhum número inserido, impossível calcular a média.");
             }
         }
-
     }
 
     public class Exercise_14
     {
         public static void Executar()
         {
-            
+            System.Console.Write("Digite um número inteiro: ");
+            int n_numeros = Convert.ToInt32(Console.ReadLine());
+            int soma = 0;
+
+            for(int i = 1; i <= n_numeros; i++){
+
+                soma += i;
+
+            }
+            System.Console.WriteLine(soma);
         }
 
     }
@@ -324,9 +330,27 @@ namespace Volvo_DotNet_Course
     {
         public static void Executar()
         {
-            
-        }
+            int qtdeNumerosPares = 0;
+            int qtdeNumerosImpares = 0;
+            int numeroAtual = 0;
 
+            for(int i = 0; i<10;i++){
+                System.Console.Write("Digite um número inteiro: ");
+                numeroAtual = Convert.ToInt32(Console.ReadLine());
+
+                if(numeroAtual % 2 == 0){
+                    qtdeNumerosPares++;
+                }
+                else if(numeroAtual % 2 == 1){
+                    qtdeNumerosImpares++;
+                }
+                else{
+                    System.Console.WriteLine("Valor inválido");
+                }
+            }
+            System.Console.WriteLine($"A quantidade de números pares é igual a {qtdeNumerosPares}");
+            System.Console.WriteLine($"A quantidade de números ímpares é igual a {qtdeNumerosImpares}");
+        }
     }
 
     public class Exercise_16
