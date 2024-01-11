@@ -2,51 +2,6 @@
 
 namespace Volvo_DotNet_Course
 {
-    class MainClass
-    {
-        static void Main(string[] args)
-        {
-            // Chama o método Executar da Exercise_01
-            //Exercise_01.Executar();
-
-            //Exercise_02.Executar();
-
-            //Exercise_03.Executar();
-
-            //Exercise_04.Executar();
-
-            //Exercise_05.Executar();
-
-            //Exercise_06.Executar();
-
-            //Exercise_07.Executar();
-
-            //Exercise_08.Executar();
-
-            //Exercise_09.Executar();
-
-            //Exercise_10.Executar();
-
-            //Exercise_11.Executar();
-
-            //Exercise_12.Executar();
-
-            //Exercise_13.Executar();
-
-            //Exercise_14.Executar();
-
-            //Exercise_15.Executar();
-
-            //Exercise_16.Executar();
-
-            //Exercise_17.Executar();
-
-            Exercise_18.Executar();
-
-
-        }
-    }
-
     public class Exercise_01
     {
         public static void Executar()
@@ -207,7 +162,6 @@ namespace Volvo_DotNet_Course
             else if(terceiro_numero < primeiro_numero && terceiro_numero < segundo_numero && segundo_numero > primeiro_numero){
                 System.Console.WriteLine($"A ordem é igual a: {terceiro_numero},{primeiro_numero},{segundo_numero}");
             }
-            
         }
     }
 
@@ -259,7 +213,6 @@ namespace Volvo_DotNet_Course
                 Console.WriteLine(contador);
                 contador = contador + 10;
             } 
-
         }
     }
 
@@ -275,7 +228,6 @@ namespace Volvo_DotNet_Course
             }
 
             System.Console.WriteLine(number);
-
         }
     }
 
@@ -325,7 +277,6 @@ namespace Volvo_DotNet_Course
             }
             System.Console.WriteLine(soma);
         }
-
     }
 
     public class Exercise_15
@@ -376,7 +327,6 @@ namespace Volvo_DotNet_Course
             {
             Console.Write("Este número é triangular!");
             }
-
         }
     }
 
@@ -431,7 +381,6 @@ namespace Volvo_DotNet_Course
             foreach (int numero in numerosSorteados){
                 System.Console.WriteLine(numero);
             }
-
         }
     }
 
@@ -439,13 +388,13 @@ namespace Volvo_DotNet_Course
     {
         public static void Executar()
         {
-            // Criando países
+            
             Pais brasil = new Pais("BRA", "Brasil", 213_993_437, 8_515_767.049);
             Pais argentina = new Pais("ARG", "Argentina", 45_376_763, 2_780_400);
             Pais paraguai = new Pais("PRY", "Paraguai", 7_292_654, 406_752);
             Pais uruguai = new Pais("URY", "Uruguai", 3_449_285, 181_034);
 
-            // Definindo os países vizinhos
+            
             brasil.SetPaisVizinho(argentina);
             brasil.SetPaisVizinho(paraguai);
             brasil.SetPaisVizinho(uruguai);
@@ -454,31 +403,30 @@ namespace Volvo_DotNet_Course
             paraguai.SetPaisVizinho(brasil);
             paraguai.SetPaisVizinho(argentina);
             uruguai.SetPaisVizinho(brasil);
-
-            // Testando os métodos da classe Pais
+            
             Console.WriteLine($"Código do Brasil: {brasil.codigo}");
             Console.WriteLine($"Nome do Brasil: {brasil.nome}");
             Console.WriteLine($"População do Brasil: {brasil.populacao}");
             Console.WriteLine($"Dimensão do Brasil: {brasil.dimensao}");
             Console.WriteLine();
 
-            // Verificando se dois objetos representam o mesmo país
+           
             Pais outroBrasil = new Pais("BRA", "Outro Brasil", 100_000_000, 5_000_000);
             Console.WriteLine("Dois países são iguais?");
-            Console.WriteLine(brasil.VerificarPaises(outroBrasil)); // Deve imprimir: True
+            Console.WriteLine(brasil.VerificarPaises(outroBrasil)); 
             Console.WriteLine();
 
-            // Verificando se um país é vizinho do outro
+            
             Console.WriteLine("Verificando se Argentina é vizinho do Brasil:");
-            Console.WriteLine(brasil.VerificarPaisVizinho(argentina)); // Deve imprimir: True
+            Console.WriteLine(brasil.VerificarPaisVizinho(argentina)); 
             Console.WriteLine();
 
-            // Calculando a densidade populacional do Brasil
+            
             Console.WriteLine("Densidade populacional do Brasil:");
             Console.WriteLine(brasil.CalcularDensidadePopulacional());
             Console.WriteLine();
 
-            // Encontrando vizinhos comuns entre dois países
+            
             Console.WriteLine("Vizinhos comuns entre Brasil e Paraguai:");
             List<Pais> vizinhosComuns = brasil.VizinhosComuns(paraguai);
             if (vizinhosComuns.Count > 0)
@@ -493,6 +441,5 @@ namespace Volvo_DotNet_Course
                 Console.WriteLine("Não há vizinhos em comum entre Brasil e Paraguai.");
             }
         }
-
     }
 }

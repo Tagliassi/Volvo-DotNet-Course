@@ -18,11 +18,6 @@ namespace Volvo_DotNet_Course
             paisesVizinhos.Add(pais);
         }
 
-        public List<Pais> GetPaisesVizinhos()
-        {
-            return paisesVizinhos;
-        }
-
         public Pais(string codigo, string nome, int populacao, double dimensao) 
         {
             this.codigo = codigo;
@@ -30,14 +25,13 @@ namespace Volvo_DotNet_Course
             this.populacao = populacao;
             this.dimensao = dimensao;
             this.paisesVizinhos = new List<Pais>();
-   
         }
 
         public bool VerificarPaises(Pais outroPais)
         {
             if (outroPais == null)
             {
-                return false;
+                throw new NullReferenceException("O objeto país não existe");
             }
 
             return this.codigo == outroPais.codigo;
@@ -59,7 +53,6 @@ namespace Volvo_DotNet_Course
             double densidadePopulacional = this.populacao/this.dimensao;
 
             return densidadePopulacional;
-
         }
 
         public List<Pais> VizinhosComuns(Pais outroPais)
@@ -74,7 +67,6 @@ namespace Volvo_DotNet_Course
             }
 
             return paisesVizinhosComum;
-
         }
     }
 }

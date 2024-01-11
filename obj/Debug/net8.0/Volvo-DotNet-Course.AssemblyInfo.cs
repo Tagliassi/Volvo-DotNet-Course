@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volvo-DotNet-Course")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86e559587b2b8bd55093cf94c662a4f0e9928f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e49ee25adba081344ae2c08ca73e67a555b6a9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volvo-DotNet-Course")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volvo-DotNet-Course")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
