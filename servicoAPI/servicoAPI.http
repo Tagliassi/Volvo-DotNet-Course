@@ -1,0 +1,6 @@
+@servicoAPI_HostAddress = http://localhost:5059
+
+GET {{servicoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

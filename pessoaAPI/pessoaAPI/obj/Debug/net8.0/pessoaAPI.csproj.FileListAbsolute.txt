@@ -1,0 +1,65 @@
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\pessoaAPI.exe
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\pessoaAPI.deps.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\pessoaAPI.runtimeconfig.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\pessoaAPI.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\pessoaAPI.pdb
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.AssemblyReference.cache
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.AssemblyInfoInputs.cache
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.AssemblyInfo.cs
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.pessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.pessoaAPI.props
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pessoaAPI.props
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pessoaAPI.props
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\scopedcss\bundle\pessoaAPI.styles.css
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.CopyComplete
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\refint\pessoaAPI.dll
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.pdb
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\pessoaAPI.genruntimeconfig.cache
+C:\Users\vilmar.abreu\Desktop\Aula do dia\Volvo\workspace\pessoaAPI\obj\Debug\net8.0\ref\pessoaAPI.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\pessoaAPI.exe
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\pessoaAPI.deps.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\pessoaAPI.runtimeconfig.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\pessoaAPI.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\pessoaAPI.pdb
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.AssemblyReference.cache
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.AssemblyInfoInputs.cache
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.AssemblyInfo.cs
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.sourcelink.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.pessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.pessoaAPI.props
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pessoaAPI.props
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pessoaAPI.props
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\scopedcss\bundle\pessoaAPI.styles.css
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.csproj.CopyComplete
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\refint\pessoaAPI.dll
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.pdb
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\pessoaAPI.genruntimeconfig.cache
+C:\Users\Play\OneDrive - Grupo Marista\Volvo-DotNet-Course\pessoaAPI\pessoaAPI\obj\Debug\net8.0\ref\pessoaAPI.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZ9vdKhe9pP7eG6xUC4iEKNRNwmxJ7eloNtxzvJEX50rQiyVg9+QgMV6GO8YY+14Wzff5gHnbLaMaDT8hOqLYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Play\\OneDrive - Grupo Marista\\Volvo-DotNet-Course\\pessoaAPI\\pessoaAPI\\pessoaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Play\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Play\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Play\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Play\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Play\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Play\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
